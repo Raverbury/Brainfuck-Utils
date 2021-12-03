@@ -143,7 +143,7 @@ int main() {
 
 	cout << "\nConsole:\n\n";
 	if(runProgram(src) >= 0) {
-		cout << "\n\nProgram has finished running.\n";
+		cout << "\n\nProgram has finished running.\n\n";
 	}
 	else {
 		cout << "\n\nProgram has returned with an error.\n\n";
